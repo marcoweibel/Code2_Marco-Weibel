@@ -2,6 +2,8 @@
 My personal repository for Code 2: Procedurality - PUDT 2112 - Spring 2016 
 
 
+![alt tag](https://scontent.fash1-1.fna.fbcdn.net/hphotos-xft1/v/t1.0-9/10409696_10152686202247301_3205429007542023279_n.jpg?oh=e63d1073a216983c84baa81edc45dfdf&oe=573545B9)
+
 # About Me 
 Hi i'm Marco, and I'm a junior in the BFA Design & Technology program. I originally studied communication design
 with an emphasis in video and graphic design, but have been enjoying this recent forray into the life of code.
